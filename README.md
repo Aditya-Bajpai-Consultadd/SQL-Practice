@@ -2,7 +2,7 @@
 
 # Topics Covered - 
 1. Introduction to Databases
-    [1. Types of Databases: Relational vs Non-Relational](1. Types of Databases: Relational vs Non-Relational)
+    [1. Types of Databases: Relational vs Non-Relational](##types-of-databases:relational-vs-non-relational)
     2. SQL vs NoSQL Databases
     
 2. Relational Database Fundamentals
@@ -17,4 +17,4 @@
 
 # Introduction to Databases 
 
-## 1. Types of Databases: Relational vs Non-Relational
+## Types of Databases: Relational vs Non-Relational
