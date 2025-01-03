@@ -1,8 +1,8 @@
 # SQL-Practice
 
 # Topics Covered - 
-## 1. Introduction to Databases  
-    1.[ Types of Databases- Relational vs Non-Relational](#typpes-ofdatabases--relational-vs-non-relational)  
+Introduction to Databases  
+    [1. Types of Databases- Relational vs Non-Relational](#typpes-ofdatabases--relational-vs-non-relational)  
     2. SQL vs NoSQL Databases
     
 2. Relational Database Fundamentals
