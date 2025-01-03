@@ -1,8 +1,7 @@
 # SQL-Practice
 
 # Topics Covered - 
-## Introduction to Databases   
-    Some Text Before the link  
+**Introduction to Databases**   
     1. [Types of Databases- Relational vs Non-Relational](#types-of-databases--relational-vs-non-relational)  
     2. SQL vs NoSQL Databases
     
@@ -18,4 +17,19 @@
 
 # Introduction to Databases 
 
-## Types of Databases- Relational vs Non-Relational
+## Types of Databases- Relational vs Non-Relational  
+### Relational Databases
+    Relational Database store information in the form of tables. Multiple tables share information between them causeing them to have a relationship.
+    Hence, the name relational database.
+
+    In a relational database, every table has a defined number of columns that define the information being stored and rows that stores the actual data.
+    Each table must have a unique column to uniquely identify every single row of the table. That column is named the primary key. To establish 
+    relationship between multple tables foreign key concept is used. SQL is used to interact with a relational database to perform CRUD operations.
+#### Advantages 
+    1. ACID Compliance  
+    2. Data Accuracy  
+    3. Normalization  
+    4. Simplicity
+
+
+    
