@@ -31,5 +31,10 @@
     3. Normalization  
     4. Simplicity
 
+#### Disadvantages
+    1. Scalability - These are intended to run on a single machine. Hence vertical scalability becomes an issue.  
+    2. Flexibility - The Schema is predefined once and is rigid to any change.
+    3. Performance - The performance of the database is linked tightly with the complexity of relatino between tables.
+
 
     
