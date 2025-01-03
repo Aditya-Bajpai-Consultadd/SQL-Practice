@@ -1,7 +1,11 @@
 # SQL-Practice
 
 # Topics Covered - 
-1. Relational Database Fundamentals
+1. Introduction to Databases
+    1. Types of Databases: Relational vs Non-Relational
+    2. SQL vs NoSQL Databases
+    
+2. Relational Database Fundamentals
     1. Database design concepts
     2. Entity-Relationship (ER) model
     3. Tables, rows, and columns
