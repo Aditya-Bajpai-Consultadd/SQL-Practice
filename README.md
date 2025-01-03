@@ -39,5 +39,4 @@
 ### Non-Relational Database 
 A non-relational database, sometimes called NoSQL (Not Only SQL), is any kind of database that doesn’t use the tables, fields,
 and columns structured data concept from relational databases.
-
 Different database store data in different ways.
