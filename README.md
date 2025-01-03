@@ -47,3 +47,5 @@ Normalization can help reduce the size of the data on disk by limiting duplicate
 
 ### When to use a non relational database
     If the data being stored needs to be flexible in terms of shape or size, or if it needs to be open to change in future, then a non-relational database is more appropriate.
+
+    <img width="733" alt="Screenshot 2025-01-03 at 11 48 33 AM" src="https://github.com/user-attachments/assets/e47eaac8-db8d-478a-92c7-a2edf7e938a8" />
