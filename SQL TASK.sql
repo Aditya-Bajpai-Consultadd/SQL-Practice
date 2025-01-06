@@ -16,9 +16,9 @@ INSERT INTO unlabeled_image_predictions (image_id, score) VALUES (546, 0.681);
 INSERT INTO unlabeled_image_predictions (image_id, score) VALUES (41, 0.1913);
 
 
-select * from unlabeled_image_predictions order by score desc;
+-- select * from unlabeled_image_predictions order by score desc;
 
-
+--PROPOSED SOLUTION TO THE GIVEN TASK
 (Select image_id, score  from (
 Select image_id, score,ROW_NUMBER() OVER (ORDER BY score DESC) as rownum from 
 unlabeled_image_predictions ) as u Where u.rownum%3=1 AND score>0.5 LIMIT 10000)
