@@ -1,6 +1,8 @@
 
 ## NOTE
-For SQL Topics 1 and 2 I have added 2 separate text files
+For SQL Topics 1 and 2 I have added 2 separate text files named as - 
+1. Introduction to DB
+2. Realtional Table Fundamentals
 
 For the following topics, please refer to the relational tables set up in the 'RelationalTable' image.
 1. Basic SQL Commands
